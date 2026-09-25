@@ -6,13 +6,12 @@
     --font-accent: 'PressStart2P', monospace;
     --weight-card-text: 410;
     --weight-card-title: 715;
+    --container-width: 700px;
     --container-width: clamp(320px, 90vw, 1160px);
     --background-gradient-horizontal: repeating-linear-gradient(90deg, #d3d3d3 0 2px, transparent 2px 4px);
     --background-gradient-vertical: repeating-linear-gradient(0deg, #d3d3d3 0 2px, transparent 2px 4px);
     --background-gradient-evenly: linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a);
+    --background-color: var(--bg-color-button);
     --label-color: #ffffff;
-    --animation-fill-color: red;
-    
-
+    --animation-fill-color: red;  
 }
-
