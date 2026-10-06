@@ -70,9 +70,9 @@ body {
 
 .header__logo {
   font-family: var(--font-accent);
-  font-size: clamp(49px, 4.5vw, 65px);
+  font-size: clamp(49px, 5.5vw, 65px);
   text-transform: uppercase;
-  margin-bottom: 25px;
+  margin-bottom: 20px;
 }
 
 .header__title {
